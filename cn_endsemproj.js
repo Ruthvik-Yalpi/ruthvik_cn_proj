@@ -97,7 +97,7 @@ while(a==0){
 
 function wrong(){
     if(a!=1){
-        alert("Wrong numbe!!So you may be not from Amirtharajan's class or you are not ruthvik's class mate..")
+        alert("Wrong number!!So you may not be from Amirtharajan's class or You are not ruthvik's class mate..")
         
         inp1=prompt("Please enter correct number:")
         check_me(inp1,some);
