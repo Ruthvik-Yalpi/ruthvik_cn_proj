@@ -1,7 +1,7 @@
 inp=prompt("What is your reg No:")
 
 
-var some=[123004278,
+var some=[
     124005901,
     124004294,
     124004012,
@@ -74,10 +74,10 @@ var some=[123004278,
     124004269];
 
 var a=0;
-if(inp=="93BL01"){
-    a=1;
-    alert("Welcome Professor!!")
-}
+// if(inp=="93BL01"){
+//     a=1;
+//     alert("Welcome Professor!!")
+// }
 check_me(inp,some);
 
 function check_me(inp,some){
