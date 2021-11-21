@@ -1,7 +1,7 @@
 inp=prompt("What is your reg No:")
 
 
-var some=[
+var some=[123004278,
     124005901,
     124004294,
     124004012,
